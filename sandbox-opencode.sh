@@ -1,5 +1,4 @@
 #!/bin/bash
-# sandbox.sh
 
 IMAGE_NAME="arch-opencode-base"
 CONTAINER_NAME="$(basename "$PWD")-sandbox"
